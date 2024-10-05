@@ -1,15 +1,15 @@
 Hi 👋 My name is Celine Marcela Lyra
 ====================================
 
-Analyst & Web Developer
+Analyst & Data Scientist
 -----------------------
 
-A Padawan Developer and Analyst with a passion for Web full-stack development, aiming to share, help and learn as much as possible with people and cultures all around the world.
+A Padawan Data Scientist and Analyst with a passion for Data development, aiming to share, help and learn as much as possible with people and cultures all around the world.
 
-*   🌍  I'm based in São Paulo, Brazil (but sometimes I'm also in Prague, Czech Republic).
+*   🌍  I'm based in São Paulo, Brazil (but sometimes I'm also in Prague, Czech Republic & Sines, Portugal).
 *   ✉️  You can contact me at [celinemlyra@gmail.com](mailto:celinemlyra@gmail.com) 
-*   🧠  I'm learning Frontend & Backend technologies as well. Such as C#, React, Node.js and I'm also on my way to master Bootstrap.
-*   🤝  I'm open to collaborating on Web projects either on a back-end or front-end side.### Skills<p align="left">
+*   🧠  I'm learning Machine Learning, Cloud Computing, SQL, Python and I'm also on my way to master Java.
+*   🤝  I'm open to collaborating on projects either on a back-end or front-end side.### Skills<p align="left">
                                 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
                                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
