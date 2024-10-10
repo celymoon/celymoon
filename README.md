@@ -17,7 +17,7 @@ A Jedi Data Scientist and Analyst with a passion for Data development, aiming to
 
 <div align="center" style="display: flex; justify-content: center;">
   <a href="https://github.com/celymoon">
-    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=celymoon&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+        <img height="195px" src="https://github-readme-stats.vercel.app/api?username=celymoon&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
     <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celymoon&layout=compact&langs_count=7&theme=great-gatsby"/>
   </a>
 </div>
